@@ -1,34 +1,57 @@
 ---
 layout: default
 ---
-# Meu Primeiro Projeto
+# Interfaces Web: fundamentos e projetos
 
 [![GitHub license](https://img.shields.io/github/license/Apprendendo/interfaces?style=for-the-badge)](https://github.com/Apprendendo/interfaces)
 [![GitHub stars](https://img.shields.io/github/stars/Apprendendo/interfaces?style=for-the-badge)](https://github.com/Apprendendo/interfaces/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Apprendendo/interfaces?style=for-the-badge)](https://github.com/Apprendendo/interfaces/network)
-[![GitHub issues](https://img.shields.io/github/issues/clcmo/interfaces?style=for-the-badge)](https://github.com/clcmo/Meu-Primeiro-Projeto/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Apprendendo/interfaces?style=for-the-badge)](https://github.com/Apprendendo/interfaces/issues)
 
-Bem-vindo à documentação deste projeto. Esta página foi organizada para funcionar como uma introdução clara e objetiva ao uso do Git e do GitHub, com uma linguagem simples e um fluxo de aprendizado progressivo.
+Bem-vindo ao repositório de Interfaces Web. Este projeto reúne exemplos, exercícios e atividades práticas voltados ao estudo de HTML, CSS, UX, UI e à criação de projetos de interfaces digitais.
 
 ## Visão geral
 
-Este repositório foi criado para ajudar quem está começando a entender os conceitos básicos de versionamento de código. A ideia é mostrar, de forma prática, como criar repositórios, registrar alterações com commits, organizar mudanças com branches e compartilhar o trabalho com outras pessoas.
+Este repositório foi organizado para apoiar o aprendizado de conceitos fundamentais da construção de interfaces web. Ao longo das aulas, os estudantes exploram elementos estruturais, estilos visuais, organização de conteúdo e boas práticas de experiência e interface do usuário.
 
-## Objetivo
+## O que você vai encontrar aqui
 
-- Apresentar os conceitos fundamentais do Git e do GitHub
-- Demonstrar um fluxo de trabalho simples para iniciantes
-- Servir como base para estudos, exercícios e prática diária
+- conceitos básicos de HTML para estruturar páginas
+- uso de CSS para estilizar e organizar visualmente o conteúdo
+- aplicação de princípios de UX e UI em projetos simples e interativos
+- exemplos de atividades como convite, agenda e cafeteria temática
+- projetos prontos para estudo, adaptação e desenvolvimento
 
-## Documentação
+## Temas principais
 
-Esta página faz parte da documentação do projeto e foi pensada para acompanhar o tema Jekyll instalado para a navegação do conteúdo. O objetivo é deixar a experiência de leitura mais organizada, visual e acessível.
+### HTML
+O HTML é a base da estrutura das páginas web. Ele define elementos como títulos, parágrafos, listas, links, imagens e formulários.
+
+### CSS
+O CSS é responsável por estilizar a apresentação visual das páginas, incluindo cores, fontes, espaçamento, layout e responsividade.
+
+### UX
+A experiência do usuário envolve pensar na forma como a pessoa navega, compreende e interage com a interface.
+
+### UI
+A interface do usuário diz respeito à aparência visual e à organização dos elementos na tela, buscando clareza e atratividade.
+
+### Projetos de interfaces
+Os projetos deste repositório mostram como combinar HTML, CSS e pensamento de UX/UI para criar experiências mais completas e envolventes.
+
+## Estrutura do projeto
+
+- aulas: atividades e exemplos práticos desenvolvidos ao longo do curso
+- docs: documentação e páginas de apoio do projeto
+- arquivos de configuração para publicação no GitHub Pages
+
+## Como estudar
+
+1. Explore as pastas e os arquivos HTML presentes nas aulas.
+2. Compare a estrutura do conteúdo com os estilos aplicados.
+3. Experimente modificar textos, cores, imagens e layouts.
+4. Pense em como melhorar a experiência do usuário em cada projeto.
+
+## Referências adicionais
 
 Para aprofundar o tema, confira o [Workshop Primeiros Passos com Git](https://apprendendo.blog/curso/workshop-primeiros-passos-com-git/).
-
-## Como começar
-
-1. Clone este repositório em sua máquina.
-2. Explore os arquivos e a estrutura do projeto.
-3. Pratique os comandos básicos do Git.
-4. Use commits e branches para testar o fluxo de trabalho.
