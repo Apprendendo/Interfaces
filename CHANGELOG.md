@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/Apprendendo/Interfaces/compare/v1.4.1...v1.4.2) (2026-07-24)
+
+
+### Bug Fixes
+
+* adicionar entradas ao .gitignore para jekyll-cache e vscode ([2d93186](https://github.com/Apprendendo/Interfaces/commit/2d931866d2a6cde7b92d7afed59a862147fcbc6b))
+
 ## [1.4.1](https://github.com/Apprendendo/Interfaces/compare/v1.4.0...v1.4.1) (2026-07-24)
 
 

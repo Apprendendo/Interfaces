@@ -1,6 +1,6 @@
 {
   "name": "@apprendendo/interfaces",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Meu primeiro projeto de aulas com Semantic Release",
   "main": "index.js",
   "publishConfig": {
