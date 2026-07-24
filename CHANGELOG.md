@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Apprendendo/Interfaces/compare/v1.0.0...v1.1.0) (2026-07-24)
+
+
+### Features
+
+* adicionar arquivos de configuração e índice para o projeto de aulas de Interfaces Web ([c8a460d](https://github.com/Apprendendo/Interfaces/commit/c8a460d2c48c74119fd558e6ee024a648036dbeb))
+
 # 1.0.0 (2026-07-24)
 
 
