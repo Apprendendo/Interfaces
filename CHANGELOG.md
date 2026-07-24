@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/Apprendendo/Interfaces/compare/v1.4.2...v1.4.3) (2026-07-24)
+
+
+### Bug Fixes
+
+* atualizar link de referência para aulas disponíveis no Apprendendo ([667843e](https://github.com/Apprendendo/Interfaces/commit/667843e34fb15efaa5769371ee2bafdc7e0abe1b))
+
 ## [1.4.2](https://github.com/Apprendendo/Interfaces/compare/v1.4.1...v1.4.2) (2026-07-24)
 
 
