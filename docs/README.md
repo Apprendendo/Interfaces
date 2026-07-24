@@ -54,4 +54,4 @@ Os projetos deste repositório mostram como combinar HTML, CSS e pensamento de U
 
 ## Referências adicionais
 
-Para aprofundar o tema, confira o [Workshop Primeiros Passos com Git](https://apprendendo.blog/curso/workshop-primeiros-passos-com-git/).
+Para aprofundar o tema, confira as aulas [disponiveis no Apprendendo](https://apprendendo.blog/aulas/tecnica/interface-e-experiencia-web/).
