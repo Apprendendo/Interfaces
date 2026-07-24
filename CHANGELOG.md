@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/Apprendendo/Interfaces/compare/v1.4.0...v1.4.1) (2026-07-24)
+
+
+### Bug Fixes
+
+* publish docs and aulas content ([3c31c7c](https://github.com/Apprendendo/Interfaces/commit/3c31c7c2915a86c8f60c30fb81ac9d0ad65f945d))
+
 # [1.4.0](https://github.com/Apprendendo/Interfaces/compare/v1.3.0...v1.4.0) (2026-07-24)
 
 
