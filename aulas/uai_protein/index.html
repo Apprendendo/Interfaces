@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cafeteria Temática</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23b45309'/%3E%3Cpath d='M20 24h24c4 0 7 3 7 7v6c0 7-5 13-12 14v3h4v4H21v-4h4v-3C18 50 13 44 13 37v-6c0-4 3-7 7-7Zm2 8v7c0 3 2 6 5 7h6c3-1 5-4 5-7v-7H22Z' fill='white'/%3E%3C/svg%3E" />
+  <style>
+    :root {
+      --marrom: #7c2d12;
+      --creme: #fef3c7;
+      --bege: #fde68a;
+      --azul: #1d4ed8;
+      --texto: #3f2e2e;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #fff7ed, #fffbeb);
+      color: var(--texto);
+      line-height: 1.6;
+    }
+
+    nav {
+      background: var(--marrom);
+      color: white;
+      padding: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 0.5rem;
+      font-weight: bold;
+    }
+
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+
+    .hero, .card, .form-card {
+      background: white;
+      padding: 1.2rem;
+      border-radius: 18px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+      margin-bottom: 1rem;
+    }
+
+    .hero {
+      display: grid;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .hero h1 {
+      margin: 0 0 0.5rem;
+      color: var(--marrom);
+      font-size: 1.8rem;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 0.8rem 1rem;
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 0.5rem;
+      background: var(--azul);
+      color: white;
+    }
+
+    .grid {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .card h2, .form-card h2 {
+      margin-top: 0;
+      color: var(--marrom);
+    }
+
+    form {
+      display: grid;
+      gap: 0.75rem;
+    }
+
+    input, textarea {
+      padding: 0.75rem;
+      border: 1px solid #d1d5db;
+      border-radius: 10px;
+      font-size: 1rem;
+    }
+
+    .highlight {
+      background: var(--creme);
+      padding: 0.9rem;
+      border-radius: 12px;
+      border-left: 4px solid var(--marrom);
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.2rem;
+      color: #6b7280;
+      font-size: 0.95rem;
+    }
+
+    @media (min-width: 768px) {
+      main { padding: 2rem; }
+      .hero { grid-template-columns: 1.2fr 0.8fr; }
+      .grid { grid-template-columns: 1fr 1fr; }
+      .hero h1 { font-size: 2.3rem; }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <strong>Cafeteria Temática</strong>
+    <div>
+      <a href="index.html">Início</a>
+      <a href="sobre.html">Sobre</a>
+      <a href="contato.html">Contato</a>
+      <a href="cadastro.html">Cadastro</a>
+    </div>
+  </nav>
+
+  <main>
+    <section class="hero">
+      <div>
+        <h1>Bem-vindo à nossa cafeteria especial</h1>
+        <p>Este espaço foi criado para reunir sabor, criatividade e um ambiente acolhedor. Aqui, cada detalhe pode contar uma história.</p>
+        <a class="btn" href="sobre.html">Conheça mais</a>
+      </div>
+      <div class="highlight">
+        <p><strong>Experiência do dia:</strong> café da tarde com receitas especiais e um ambiente pensado para relaxar.</p>
+        <p>Hoje celebramos os professores que transformam cada momento em aprendizado.</p>
+      </div>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h2>Sobre a cafeteria</h2>
+        <p>A cafeteria temática mistura decoração, sabores e um toque de cultura para criar uma experiência única.</p>
+        <p>Faltam detalhes importantes sobre os produtos e o ambiente.</p>
+      </article>
+
+      <article class="card">
+        <h2>Contato</h2>
+        <p>Quer visitar ou fazer um pedido especial? Entre em contato para reservar um espaço ou conhecer o cardápio.</p>
+        <a class="btn" href="contato.html">Fale conosco</a>
+      </article>
+    </section>
+
+    <section class="form-card">
+      <h2>Cadastro</h2>
+      <p>Preencha o formulário abaixo para participar de novidades, promoções e eventos especiais.</p>
+      <form>
+        <input type="text" placeholder="Nome" />
+        <input type="email" placeholder="E-mail" />
+        <textarea rows="4" placeholder="Conte um pouco sobre sua experiência"></textarea>
+        <button class="btn" type="button">Enviar</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>Projeto educativo em construção — complete os detalhes para criar uma experiência completa.</p>
+  </footer>
+</body>
+</html>

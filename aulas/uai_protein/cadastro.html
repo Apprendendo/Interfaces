@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cadastro</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23b45309'/%3E%3Cpath d='M20 24h24c4 0 7 3 7 7v6c0 7-5 13-12 14v3h4v4H21v-4h4v-3C18 50 13 44 13 37v-6c0-4 3-7 7-7Zm2 8v7c0 3 2 6 5 7h6c3-1 5-4 5-7v-7H22Z' fill='white'/%3E%3C/svg%3E" />
+  <style>
+    body { margin:0; font-family:Arial,sans-serif; background:#fef3c7; color:#3f2e2e; line-height:1.6; }
+    nav { background:#7c2d12; color:white; padding:1rem; display:flex; justify-content:space-between; flex-wrap:wrap; gap:0.75rem; }
+    nav a { color:white; text-decoration:none; margin-left:0.5rem; font-weight:bold; }
+    main { max-width:900px; margin:0 auto; padding:1rem; }
+    .card { background:white; padding:1.2rem; border-radius:18px; box-shadow:0 8px 24px rgba(0,0,0,0.08); }
+    h1 { color:#7c2d12; }
+    form { display:grid; gap:0.75rem; }
+    input, select { padding:0.75rem; border:1px solid #d1d5db; border-radius:10px; }
+    .btn { display:inline-block; padding:0.8rem 1rem; border-radius:999px; background:#1d4ed8; color:white; border:none; cursor:pointer; }
+  </style>
+</head>
+<body>
+  <nav>
+    <strong>Cafeteria Temática</strong>
+    <div>
+      <a href="index.html">Início</a>
+      <a href="sobre.html">Sobre</a>
+      <a href="contato.html">Contato</a>
+      <a href="cadastro.html">Cadastro</a>
+    </div>
+  </nav>
+
+  <main>
+    <section class="card">
+      <h1>Formulário de cadastro</h1>
+      <p>Cadastre-se para receber novidades, participar de eventos especiais e conhecer as promoções da cafeteria.</p>
+      <form>
+        <input type="text" placeholder="Nome completo" />
+        <input type="email" placeholder="E-mail" />
+        <select>
+          <option>Escolha uma opção</option>
+          <option>Quero receber novidades</option>
+          <option>Quero participar de eventos</option>
+        </select>
+        <button class="btn" type="button">Cadastrar</button>
+      </form>
+    </section>
+  </main>
+</body>
+</html>
