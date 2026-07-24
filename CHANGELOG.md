@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Apprendendo/Interfaces/compare/v1.2.0...v1.3.0) (2026-07-24)
+
+
+### Features
+
+* atualizar README e index com informações sobre o projeto de Interfaces Web ([24d2f8c](https://github.com/Apprendendo/Interfaces/commit/24d2f8c6f88bab19b72bd602d6e279db05303941))
+
 # [1.2.0](https://github.com/Apprendendo/Interfaces/compare/v1.1.1...v1.2.0) (2026-07-24)
 
 
