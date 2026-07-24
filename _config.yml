@@ -1,13 +1,14 @@
-title: Meu Primeiro Projeto
-description: Documentação do projeto automatizado com Semantic Release
+title: Interfaces Web
+description: Documentação do projeto de aulas de Interfaces Web automatizado com Semantic Release
 
 # Tema escolhido
 theme: jekyll-theme-architect
 
 # Configuração de URLs para o subdomínio e subpasta
 url: "https://apprendendo.github.io"
-baseurl: "/MeuPrimeiroProjeto"
+baseurl: "/Interfaces"
 
 # Garante que a pasta docs e seus arquivos sejam processados pelo Jekyll
 include:
   - docs
+  - aulas

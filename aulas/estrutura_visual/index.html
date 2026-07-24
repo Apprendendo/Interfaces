@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens e Elementos Visuais em HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 2rem;
+            background: #f4f7fb;
+            color: #222;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 1rem 0;
+        }
+
+        figure {
+            margin: 1.5rem 0;
+        }
+
+        figcaption {
+            font-size: 0.95rem;
+            color: #555;
+        }
+
+        hr {
+            margin: 2rem 0;
+            border: 0;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Imagens e elementos visuais em HTML</h1>
+        <p>O HTML não é usado apenas para escrever texto. Ele também organiza elementos visuais que ajudam a explicar ideias, mostrar exemplos e tornar a página mais interessante para o leitor.</p>
+
+        <h2>1. A importância das imagens</h2>
+        <p>As imagens são uma forma de complementar o conteúdo textual. Elas podem ilustrar um conceito, mostrar um produto, representar um cenário ou reforçar uma mensagem.</p>
+
+        <figure>
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='800' height='420' viewBox='0 0 800 420'%3E%3Crect width='800' height='420' fill='%23eef4ff'/%3E%3Crect x='70' y='80' width='660' height='260' rx='16' fill='%23ffffff' stroke='%2395b8ff' stroke-width='4'/%3E%3Crect x='100' y='110' width='240' height='40' rx='8' fill='%233b82f6'/%3E%3Crect x='100' y='170' width='360' height='18' rx='8' fill='%2395b8ff'/%3E%3Crect x='100' y='200' width='280' height='18' rx='8' fill='%2395b8ff'/%3E%3Crect x='100' y='240' width='320' height='18' rx='8' fill='%2395b8ff'/%3E%3Ccircle cx='590' cy='190' r='70' fill='%23f59e0b'/%3E%3Cpath d='M560 190l24 24 46-48' stroke='white' stroke-width='14' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E" alt="Ilustração de uma página HTML com estrutura visual e imagem" width="600">
+            <figcaption>Uma página HTML pode combinar texto, imagens e elementos visuais para melhorar a experiência do usuário.</figcaption>
+        </figure>
+
+        <h3>2. O elemento img</h3>
+        <p>Para inserir uma imagem, usamos a tag <strong>img</strong>. Ela precisa de pelo menos dois atributos principais: <strong>src</strong>, que indica o caminho da imagem, e <strong>alt</strong>, que descreve a imagem para leitores de tela e para casos em que a imagem não apareça.</p>
+
+        <h4>3. Organização visual com outras tags</h4>
+        <p>Além da imagem, o HTML oferece elementos que ajudam a organizar visualmente o conteúdo. O elemento <strong>figure</strong> agrupa a imagem e sua legenda, enquanto o <strong>figcaption</strong> explica o que a imagem representa.</p>
+
+        <hr>
+
+        <h5>4. Destaque de conteúdo textual</h5>
+        <p>Podemos usar marcações para destacar partes importantes do texto. Por exemplo, <strong>negrito</strong> destaca termos importantes e <em>itálico</em> dá ênfase a uma ideia. O elemento <mark>marcado</mark> pode chamar atenção para uma informação relevante.</p>
+
+        <h6>5. Exemplo prático</h6>
+        <ol>
+            <li>Defina a mensagem principal da página.</li>
+            <li>Escolha uma imagem que complemente essa ideia.</li>
+            <li>Organize o texto em seções com títulos e parágrafos.</li>
+            <li>Use elementos visuais para facilitar a leitura.</li>
+        </ol>
+
+        <blockquote>
+            “Uma boa página HTML une texto, imagem e organização visual para comunicar melhor.”
+        </blockquote>
+
+        <ul>
+            <li>As imagens tornam o conteúdo mais atrativo.</li>
+            <li>O texto estrutural ajuda na leitura.</li>
+            <li>Os elementos visuais guiam o olhar do leitor.</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>© 2026 Apprendendo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>

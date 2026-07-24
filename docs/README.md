@@ -3,10 +3,10 @@ layout: default
 ---
 # Meu Primeiro Projeto
 
-[![GitHub license](https://img.shields.io/github/license/Apprendendo/MeuPrimeiroProjeto?style=for-the-badge)](https://github.com/Apprendendo/Meu-Primeiro-Projeto)
-[![GitHub stars](https://img.shields.io/github/stars/Apprendendo/MeuPrimeiroProjeto?style=for-the-badge)](https://github.com/Apprendendo/Meu-Primeiro-Projeto/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Apprendendo/MeuPrimeiroProjeto?style=for-the-badge)](https://github.com/Apprendendo/Meu-Primeiro-Projeto/network)
-[![GitHub issues](https://img.shields.io/github/issues/clcmo/MeuPrimeiroProjeto?style=for-the-badge)](https://github.com/clcmo/Meu-Primeiro-Projeto/issues)
+[![GitHub license](https://img.shields.io/github/license/Apprendendo/interfaces?style=for-the-badge)](https://github.com/Apprendendo/interfaces)
+[![GitHub stars](https://img.shields.io/github/stars/Apprendendo/interfaces?style=for-the-badge)](https://github.com/Apprendendo/interfaces/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Apprendendo/interfaces?style=for-the-badge)](https://github.com/Apprendendo/interfaces/network)
+[![GitHub issues](https://img.shields.io/github/issues/clcmo/interfaces?style=for-the-badge)](https://github.com/clcmo/Meu-Primeiro-Projeto/issues)
 
 Bem-vindo à documentação deste projeto. Esta página foi organizada para funcionar como uma introdução clara e objetiva ao uso do Git e do GitHub, com uma linguagem simples e um fluxo de aprendizado progressivo.
 

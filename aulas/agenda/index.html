@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agenda Semanal</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #eff6ff, #fef3c7);
+      color: #1f2937;
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    nav {
+      background: white;
+      padding: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: #2563eb;
+      text-decoration: none;
+      margin-left: 0.5rem;
+      font-weight: bold;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+
+    .card {
+      background: white;
+      padding: 1rem;
+      border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      color: #1d4ed8;
+      margin-top: 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+      font-size: 0.95rem;
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+
+    th, td {
+      border: 1px solid #d1d5db;
+      padding: 0.7rem;
+      text-align: center;
+      min-width: 100px;
+    }
+
+    th {
+      background: #dbeafe;
+      color: #1e3a8a;
+    }
+
+    td.periodo {
+      background: #eff6ff;
+      font-weight: bold;
+      color: #1e3a8a;
+      text-align: left;
+      min-width: 120px;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.8rem 1rem;
+      background: #f59e0b;
+      color: white;
+      text-decoration: none;
+      border-radius: 999px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    @media (min-width: 768px) {
+      main {
+        padding: 2rem;
+      }
+
+      .card {
+        padding: 2rem;
+      }
+
+      table {
+        white-space: normal;
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <strong>Agenda de Atividades</strong>
+    <div>
+      <a href="index.html">Início</a>
+      <a href="atividade.html">Atividade</a>
+    </div>
+  </nav>
+
+  <main>
+    <section class="card">
+      <h1>Agenda de aulas e atividades</h1>
+      <p>Uma agenda ajuda a organizar o tempo e visualizar as tarefas da semana. Ela permite planejar aulas, estudos e compromissos com mais clareza.</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Período</th>
+            <th>Segunda</th>
+            <th>Terça</th>
+            <th>Quarta</th>
+            <th>Quinta</th>
+            <th>Sexta</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="periodo">07:00 - 08:00</td>
+            <td>Aula de Matemática</td>
+            <td>Aula de Português</td>
+            <td>Aula de Ciências</td>
+            <td>Aula de História</td>
+            <td>Aula de Geografia</td>
+          </tr>
+          <tr>
+            <td class="periodo">09:00 - 10:00</td>
+            <td>Estudo em casa</td>
+            <td>Exercícios</td>
+            <td>Trabalho escolar</td>
+            <td>Revisão</td>
+            <td>Atividade em grupo</td>
+          </tr>
+          <tr>
+            <td class="periodo">13:00 - 14:00</td>
+            <td>Almoço e descanso</td>
+            <td>Leitura</td>
+            <td>Planejamento</td>
+            <td>Estudo de revisão</td>
+            <td>Projetos</td>
+          </tr>
+          <tr>
+            <td class="periodo">15:00 - 16:00</td>
+            <td>Atividade de casa</td>
+            <td>Prática de escrita</td>
+            <td>Experimentos</td>
+            <td>Pesquisa</td>
+            <td>Organização da semana</td>
+          </tr>
+          <tr>
+            <td class="periodo">19:00 - 20:00</td>
+            <td>Leitura</td>
+            <td>Revisão geral</td>
+            <td>Descanso</td>
+            <td>Atividade de casa</td>
+            <td>Momento de lazer</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <a class="btn" href="atividade.html">Ver atividade</a>
+    </section>
+  </main>
+</body>
+</html>
