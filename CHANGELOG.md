@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Apprendendo/Interfaces/compare/v1.1.0...v1.1.1) (2026-07-24)
+
+
+### Bug Fixes
+
+* corrigir caminho de origem no workflow de construção do Jekyll ([5bdc3cf](https://github.com/Apprendendo/Interfaces/commit/5bdc3cfcf8b0efe95c036165a29bcdf25fb8babd))
+
 # [1.1.0](https://github.com/Apprendendo/Interfaces/compare/v1.0.0...v1.1.0) (2026-07-24)
 
 
