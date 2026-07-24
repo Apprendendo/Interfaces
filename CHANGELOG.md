@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Apprendendo/Interfaces/compare/v1.3.0...v1.4.0) (2026-07-24)
+
+
+### Features
+
+* reintroduzir a página inicial do projeto Interfaces Web ([69188d2](https://github.com/Apprendendo/Interfaces/commit/69188d257b835cb924fd2aba89201b2569c70dd4))
+
 # [1.3.0](https://github.com/Apprendendo/Interfaces/compare/v1.2.0...v1.3.0) (2026-07-24)
 
 
