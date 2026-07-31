@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/Apprendendo/Interfaces/compare/v1.4.3...v1.5.0) (2026-07-31)
+
+
+### Features
+
+* adicionar revisão de aula das estruturas ([5753288](https://github.com/Apprendendo/Interfaces/commit/5753288d1b0d08a13c9c8e5d57126787e52825aa))
+
 ## [1.4.3](https://github.com/Apprendendo/Interfaces/compare/v1.4.2...v1.4.3) (2026-07-24)
 
 
