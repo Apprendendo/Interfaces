@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/Apprendendo/Interfaces/compare/v1.5.0...v1.6.0) (2026-08-04)
+
+
+### Features
+
+* Add index.html for improved Pudim page ([a5131be](https://github.com/Apprendendo/Interfaces/commit/a5131be8c2f818420c2ab254c73758950c7be42b))
+
 # [1.5.0](https://github.com/Apprendendo/Interfaces/compare/v1.4.3...v1.5.0) (2026-07-31)
 
 
