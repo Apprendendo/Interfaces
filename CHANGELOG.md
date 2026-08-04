@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/Apprendendo/Interfaces/compare/v1.7.0...v1.7.1) (2026-08-04)
+
+
+### Bug Fixes
+
+* Rename aulas/pudim/pudim.jpg to aulas/pudim/assets/img/pudim.jpg ([67e6241](https://github.com/Apprendendo/Interfaces/commit/67e6241ebdd7581c7608cc473c2980e437771b5f))
+
 # [1.7.0](https://github.com/Apprendendo/Interfaces/compare/v1.6.0...v1.7.0) (2026-08-04)
 
 
