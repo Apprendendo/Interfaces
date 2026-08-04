@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/Apprendendo/Interfaces/compare/v1.6.0...v1.7.0) (2026-08-04)
+
+
+### Features
+
+* add pudim ([5b36ca6](https://github.com/Apprendendo/Interfaces/commit/5b36ca6dec9c8346873b0fa02b8f03288cf82843))
+
 # [1.6.0](https://github.com/Apprendendo/Interfaces/compare/v1.5.0...v1.6.0) (2026-08-04)
 
 
