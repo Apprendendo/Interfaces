@@ -1,3 +1,10 @@
+## [1.8.7](https://github.com/Apprendendo/Interfaces/compare/v1.8.6...v1.8.7) (2026-08-06)
+
+
+### Bug Fixes
+
+* Rename aulas/assets/sound_effects/alexzavesa-calm-inspiring-technology-logo-short-version-518993.mp3 to aulas/estrutura_visual/assets/sound_effects/alexzavesa-calm-inspiring-technology-logo-short-version-518993.mp3 ([21e58c3](https://github.com/Apprendendo/Interfaces/commit/21e58c3dfa9ea5a482f3520d0be524eddc5ed2ba))
+
 ## [1.8.6](https://github.com/Apprendendo/Interfaces/compare/v1.8.5...v1.8.6) (2026-08-06)
 
 
