@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/Apprendendo/Interfaces/compare/v1.9.0...v1.9.1) (2026-08-06)
+
+
+### Bug Fixes
+
+* ajuste de tag seo para utilização dos recursos ([61b57b6](https://github.com/Apprendendo/Interfaces/commit/61b57b6ed2822b761eb4dc2dd9dca7645b7fb8ed))
+
 # [1.9.0](https://github.com/Apprendendo/Interfaces/compare/v1.8.7...v1.9.0) (2026-08-06)
 
 
