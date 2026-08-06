@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/Apprendendo/Interfaces/compare/v1.8.7...v1.9.0) (2026-08-06)
+
+
+### Features
+
+* inserção do favicon ([11f1c31](https://github.com/Apprendendo/Interfaces/commit/11f1c31734de7242bc05e504f7504d632c13e792))
+
 ## [1.8.7](https://github.com/Apprendendo/Interfaces/compare/v1.8.6...v1.8.7) (2026-08-06)
 
 
