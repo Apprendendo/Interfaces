@@ -4,6 +4,9 @@ description: Documentação do projeto de aulas de Interfaces Web automatizado c
 # Tema escolhido
 theme: jekyll-theme-architect
 
+plugins:
+  - jekyll-seo-tag
+
 # Configuração de URLs para o subdomínio e subpasta
 url: "https://apprendendo.github.io"
 baseurl: "/Interfaces"
