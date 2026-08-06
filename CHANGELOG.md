@@ -1,3 +1,11 @@
+## [1.8.1](https://github.com/Apprendendo/Interfaces/compare/v1.8.0...v1.8.1) (2026-08-06)
+
+
+### Bug Fixes
+
+* Rename aulas/list_dl.html to aulas/listas/list_dl.html ([a4706db](https://github.com/Apprendendo/Interfaces/commit/a4706dbe1b54079f7c2f517134b63e68c980bf12))
+* Rename aulas/list_ol.html to aulas/listas/list_ol.html ([dd37af7](https://github.com/Apprendendo/Interfaces/commit/dd37af70b1a452626754e4819968cbc718dcd426))
+
 # [1.8.0](https://github.com/Apprendendo/Interfaces/compare/v1.7.1...v1.8.0) (2026-08-06)
 
 
