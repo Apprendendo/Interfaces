@@ -1,3 +1,10 @@
+## [1.8.5](https://github.com/Apprendendo/Interfaces/compare/v1.8.4...v1.8.5) (2026-08-06)
+
+
+### Bug Fixes
+
+* Rename aulas/assets/img/ninalozej-church-10279029.jpg to aulas/estrutura_visual/assets/img/ninalozej-church-10279029.jpg ([c40da5d](https://github.com/Apprendendo/Interfaces/commit/c40da5decd8d76b17b2de05a6ab855276b63c261))
+
 ## [1.8.4](https://github.com/Apprendendo/Interfaces/compare/v1.8.3...v1.8.4) (2026-08-06)
 
 
