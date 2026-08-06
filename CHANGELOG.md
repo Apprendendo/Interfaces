@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/Apprendendo/Interfaces/compare/v1.7.1...v1.8.0) (2026-08-06)
+
+
+### Features
+
+* ajuste de links no menu do apprendendo interfaces ([bf63330](https://github.com/Apprendendo/Interfaces/commit/bf633309b0348a5ad8aef79b0b74195a1b6034fd))
+
 ## [1.7.1](https://github.com/Apprendendo/Interfaces/compare/v1.7.0...v1.7.1) (2026-08-04)
 
 
