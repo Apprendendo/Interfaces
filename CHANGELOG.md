@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/Apprendendo/Interfaces/compare/v1.8.2...v1.8.3) (2026-08-06)
+
+
+### Bug Fixes
+
+* Rename aulas/midia.html to aulas/estrutura_visual/midia.html ([ba0383d](https://github.com/Apprendendo/Interfaces/commit/ba0383d3d6cea33f61409b5b5b7f98d4b7fd8507))
+
 ## [1.8.2](https://github.com/Apprendendo/Interfaces/compare/v1.8.1...v1.8.2) (2026-08-06)
 
 
