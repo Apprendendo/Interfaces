@@ -12,3 +12,6 @@ baseurl: "/Interfaces"
 include:
   - docs
   - aulas
+
+assets:
+  favicon: "/assets/img/favicon.webp"
