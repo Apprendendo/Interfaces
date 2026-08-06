@@ -1,3 +1,10 @@
+## [1.8.6](https://github.com/Apprendendo/Interfaces/compare/v1.8.5...v1.8.6) (2026-08-06)
+
+
+### Bug Fixes
+
+* Rename aulas/assets/music/mickeyscat-moment-of-peace-mickeyscat-554494.mp3 to aulas/estrutura_visual/assets/music/mickeyscat-moment-of-peace-mickeyscat-554494.mp3 ([de56edb](https://github.com/Apprendendo/Interfaces/commit/de56edb204e1bc9d30ef84767a5008ba117717db))
+
 ## [1.8.5](https://github.com/Apprendendo/Interfaces/compare/v1.8.4...v1.8.5) (2026-08-06)
 
 
