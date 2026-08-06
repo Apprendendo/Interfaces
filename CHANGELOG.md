@@ -1,3 +1,10 @@
+## [1.8.4](https://github.com/Apprendendo/Interfaces/compare/v1.8.3...v1.8.4) (2026-08-06)
+
+
+### Bug Fixes
+
+* Rename aulas/text.html to aulas/estrutura_textual/text.html ([b8e06f8](https://github.com/Apprendendo/Interfaces/commit/b8e06f8119e766f05b755bc58286acae6b7fa33a))
+
 ## [1.8.3](https://github.com/Apprendendo/Interfaces/compare/v1.8.2...v1.8.3) (2026-08-06)
 
 
